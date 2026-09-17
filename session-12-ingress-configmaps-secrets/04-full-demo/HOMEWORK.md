@@ -266,6 +266,7 @@ POSTGRES_DB=yatri_production_db
 ### Screenshot
 
 ![Environment Variables](screenshots/04.png)
+![Environment Variables](screenshots/05.png)
 
 ---
 
