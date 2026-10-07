@@ -1,8 +1,23 @@
-# Homework: Python for DevOps
+# Session 21: Final DevOps Project & Troubleshooting — Homework
 
-1. Write a Python script that accepts a file or directory path and reports whether it exists, handling invalid input cleanly.
-2. Extend it to read a simple configuration file and print a concise status report.
-3. Add error handling and at least three tests covering normal input, missing input, and invalid input.
-4. Document how to run the script and its tests in a clean environment.
+## 📋 Tasks & Deliverables
 
-**Deliverable:** Python source, tests, and run instructions. Do not include credentials or other secrets.
+| Deliverable | Description | Link |
+| :--- | :--- | :--- |
+| **Final DevOps Project: TaskBoard** | Complete end-to-end cloud-native capstone: Application (FastAPI + React + Postgres), Docker, DevSecOps (SAST, SCA, Trivy), Terraform (AWS VPC + EKS), Kubernetes, Helm, Argo CD GitOps, Monitoring, and Troubleshooting Challenges with visual evidence | [final-devops-project/Homework.md](./final-devops-project/Homework.md) |
+
+---
+
+## 📁 Topic Subfolders
+
+- [backend](./backend/)
+- [frontend](./frontend/)
+- [docker-compose.yml](./docker-compose.yml)
+- [k8s](./k8s/)
+- [helm](./helm/)
+- [terraform](./terraform/)
+- [monitoring](./monitoring/)
+- [troubleshooting](./troubleshooting/)
+- [scripts](./scripts/)
+- [.github](./.github/)
+- [final-devops-project](./final-devops-project/Homework.md)
