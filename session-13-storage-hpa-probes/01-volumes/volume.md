@@ -1,12 +1,4 @@
-# Kubernetes Volumes
-
-## What will we learn?
-
-* What is a Kubernetes Volume?
-* Why do containers need volumes?
-* What is `emptyDir`?
-* How does storage behave when a container or Pod restarts?
-* Basic idea of `hostPath`
+# Kubernetes Volumes Homework
 
 ---
 
