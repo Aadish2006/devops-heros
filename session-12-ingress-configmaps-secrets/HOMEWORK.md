@@ -6,3 +6,12 @@
 4. Explain why Kubernetes Secrets require additional access controls and are not, by themselves, a complete encryption strategy.
 
 **Deliverable:** Manifests with sample-only credentials, access test results, and a brief security note.
+
+## Lesson Homework
+
+Each link opens the Markdown homework file in the corresponding topic folder.
+
+- [ConfigMap](01-configmap/HOMEWORK.md)
+- [Secret](02-secret/HOMEWORK.md)
+- [Ingress](03-ingress/HOMEWORK.md)
+- [Full Demo](04-full-demo/HOMEWORK.md)

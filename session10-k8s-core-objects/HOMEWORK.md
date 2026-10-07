@@ -6,3 +6,17 @@
 4. Delete one managed Pod and explain how the desired replica count is restored.
 
 **Deliverable:** Kubernetes manifests, verification commands, and a short explanation of Pods, Deployments, and Services.
+
+## Lesson Homework
+
+Each link opens the Markdown homework file in the corresponding topic folder.
+
+- [Pod](pod/HOMEWORK.md)
+- [Pod Lifecycle](pod-lifecycle/HOMEWORK.md)
+- [Deployment](deployment/HOMEWORK.md)
+- [ReplicaSet](replicaset/HOMEWORK.md)
+- [DaemonSet](daemonset/HOMEWORK.md)
+- [Rolling Update](01-rolling-update/HOMEWORK.md)
+- [Blue-Green Deployment](02-blue-green/HOMEWORK.md)
+- [Canary Deployment](03-canary/HOMEWORK.md)
+- [Recreate Deployment](04-recreate/HOMEWORK.md)

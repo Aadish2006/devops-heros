@@ -10,6 +10,7 @@ Learn how to use `kubectl logs` to view application output and troubleshoot cont
 ```bash
 kubectl apply -f pod.yaml
 kubectl get pod logs-demo
+```
 
 
 ### Screenshot 1
